@@ -1,0 +1,13 @@
+body {background-color: #D7d0c8;
+    color: #34353f;
+}
+nav{
+    background-color: #34353f;
+}
+.grey-text{
+    color: #34353f;
+}
+
+.center {justify-content: center;
+margin-bottom: 50px;
+}
