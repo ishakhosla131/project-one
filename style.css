@@ -11,3 +11,14 @@ nav{
 .center {justify-content: center;
 margin-bottom: 50px;
 }
+.card-content{
+    word-wrap: break-word;
+}
+.card-title{word-wrap: normal;}
+.center-text{text-align: center;
+    color: #bd897e}
+.padding{
+    padding-right: 100px;
+    padding-left: 100px; 
+    
+}
